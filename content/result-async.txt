@@ -1,0 +1,1 @@
+Here is the async result: first hello, second hello
